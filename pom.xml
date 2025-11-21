@@ -35,6 +35,9 @@
     <modules>
         <module>catalog-service</module>
         <module>order-service</module>
+        <module>notifiation-service</module>
+        <module>api-gateway</module>
+        <module>bookstore-webapp</module>
     </modules>
     <dependencies>
         <dependency>
